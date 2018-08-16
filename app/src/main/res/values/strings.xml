@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TegaProject</string>
+    <string name="questionare">Questionare For Screen Audit</string>
+    <string name="_1_t_flow_diagram_enclosed">1.\t FLOW DIAGRAM (ENCLOSED)</string>
+    <string name="enter_flow_diagram">Enter Flow Diagram</string>
+    <string name="_2_t_feed_size_distribution_indicated">2. \t FEED SIZE DISTRIBUTION (INDICATED)</string>
+    <string name="_3_tequipment_make_with_model_no">3.\tEQUIPMENT MAKE WITH MODEL NO.</string>
+    <string name="enter_model_no">Enter Model No.</string>
+    <string name="need">FOR CRUSHERS WE NEED</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_email">Enter Your Email</string>
+    <string name="hint_password">Enter Your Password</string>
+    <string name="btn_link_to_register">Register</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_link_to_forget">Forget Password?</string>
+    <string name="hint_name">Enter Your Name</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="hint_phone">Enter Your Mobile Number</string>
+    <string name="image_logo">image_logo</string>
+    <string name="plant_process">PLANT PROCESS</string>
+</resources>
